@@ -12,3 +12,9 @@ form {
   padding-bottom: 55px;
   border-radius: 25px;
 }
+
+h1 {
+  margin: 15px;
+  font-size: 26px;
+  text-align: center;
+}
