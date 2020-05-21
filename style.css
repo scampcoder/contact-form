@@ -30,3 +30,20 @@ textarea {
   padding: 8px;
   width: 95%;
 }
+
+button, input[type="reset"] {
+  padding: 12px 22px 12px 22px;
+  color: #7CE9EC;
+  background-color: #9CA3A3;
+  font-size: 24px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 20px;
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 5%;
+  width: 30%;
+  border: 1px solid #fff;
+  border-width: 1px 1px 3px;
+  border-style: none;
+}
