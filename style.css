@@ -52,3 +52,9 @@ fieldset {
   display: block;
   font-weight: bold;
 }
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
